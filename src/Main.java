@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hello world");
         //B21 is good at Intellij
         System.out.println("Hi");
-	// write your code here
+
     }
 }
